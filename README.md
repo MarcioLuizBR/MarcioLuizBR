@@ -5,6 +5,7 @@
 ## Tecnologias e Ferramentas:
 - Python 🐍
 - Azure ☁️
+- SQL 
 - Power BI 📊
 - Streamlit 🖥️
 
@@ -18,7 +19,7 @@
 
 
 ## O que estou aprendendo:
-- Atualmente tenho focado na linguegem Python e nas tecnologisas correlacionadas a esta linguagem.
+Atualmente, tenho focado na linguagem Python e em tecnologias relacionadas, além de estar em formação na trilha de Dados da escola DNC, com ênfase em liderança técnica e gestão de dados.
 
 ## Contato:
 - [LinkedIn](https://www.linkedin.com/in/marcioluiz-multicloud/)
