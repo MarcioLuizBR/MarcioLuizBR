@@ -68,5 +68,5 @@ Scripts Python focados em eficiência operacional e automação de tarefas repet
 
 ## 📬 Contato
 
-- LinkedIn: https://www.linkedin.com/in/marcioluiz-multicloud/
+- LinkedIn: [https://www.linkedin.com/in/marcioluiz-br/](https://www.linkedin.com/in/marcioluiz-br/)
 - Email: marcio.asriel@gmail.com
