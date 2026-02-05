@@ -33,7 +33,7 @@ Minha atuação combina análise de dados, automação e construção de sistema
 ### 🤖 HELPTEA — AI Multi-Agent System
 Sistema baseado em agentes de IA para apoio a familiares de pessoas com TEA.
 
-👉 https://github.com/MarcioLuizBR/HELPTEA
+👉 [https://github.com/MarcioLuizBR/HELPTEA](https://github.com/MarcioLuizBR/desafio_imersaoIA2025)
 
 ---
 
