@@ -1,26 +1,72 @@
-# Bem-vindo ao meu GitHub! 👋
+# 🚀 Marcio Luiz — Python Developer | Data & AI
 
-👋 Olá! Meu nome é Marcio Luiz, desenvolvedor Python e entusiasta de tecnologia. Atualmente, estou focado em projetos na area de Ciência de Dados como automação, desenvolvimento web, Inteligencia artificial e demais tecnologias da area.
+Olá! Sou Marcio Luiz, desenvolvedor Python focado em **Data Analytics, Machine Learning, Inteligência Artificial e soluções orientadas a negócio**.
 
-## Tecnologias e Ferramentas:
+Minha atuação combina análise de dados, automação e construção de sistemas inteligentes, transformando dados em decisões práticas.
+
+---
+
+## 🧠 Áreas de atuação
+
+- 📊 Data Analytics & Business Intelligence
+- 🤖 Inteligência Artificial e Agentes de IA
+- 📈 Machine Learning aplicado
+- ⚙️ Automação com Python
+- ☁️ Cloud Computing (Microsoft Azure)
+
+---
+
+## 🛠️ Stack Tecnológica
+
 - Python 🐍
-- Azure ☁️
-- SQL 
+- Pandas / NumPy / Scikit-Learn
 - Power BI 📊
-- Streamlit 🖥️
+- SQL
+- Azure ☁️
+- Streamlit
+- Django / Flask
 
-## Projetos Destacados:[
-- [Aplicativo em Streamlit](https://github.com/MarcioLuizBR/App_Streamlit) - Projeto Aplicativo Interno Empresarial com Streamlit.
-- [Projeto_Web_Django](https://github.com/MarcioLuizBR/Projeto_Web_Django) - Este projeto é um site web dinâmico desenvolvido com o framework Django, pensado para ser escalável e seguro, com uma interface intuitiva e funcionalidades robustas de autenticação e gestão de dados. 
-- [Automação WEB](https://github.com/MarcioLuizBR/Automacao_WEB) - Projeto de automação WEB de consulta e analize de preços dos produtos determinados pela empresa.
-- [Projeto_WEB_PYTHON](https://github.com/MarcioLuizBR/Projeto_Web_Python) - Este projeto é um site web dinâmico desenvolvido com o framework Flask, pensado para ser escalável e seguro, com uma interface intuitiva e funcionalidades robustas de autenticação e gestão de dados.
-- [Automação de processos](https://github.com/MarcioLuizBR/Automacao_Processos) - Projeto com objetivo a automação de processos rotineiros, como o envio de indicadores e relatórios diários.
-- [Ciencia de Dados](https://github.com/MarcioLuizBR/Ciencia_dados_Airbnb) - Projeto de ciencia de dados sobre Airbnb do Rio de Janeiro.
+---
 
+## ⭐ Projetos em Destaque
 
-## O que estou aprendendo:
-Atualmente, tenho focado na linguagem Python e em tecnologias relacionadas, além de estar em formação na trilha de Dados da escola DNC, com ênfase em liderança técnica e gestão de dados.
+### 🤖 HELPTEA — AI Multi-Agent System
+Sistema baseado em agentes de IA para apoio a familiares de pessoas com TEA.
 
-## Contato:
-- [LinkedIn](https://www.linkedin.com/in/marcioluiz-multicloud/)
+👉 https://github.com/MarcioLuizBR/HELPTEA
+
+---
+
+### 📊 Becomex — Análise de Dados IBGE
+Pipeline completo de ETL com dados públicos, análise econômica e dashboard em Power BI.
+
+👉 https://github.com/MarcioLuizBR/Projeto_Becomex_AnaliseDados_IBGE
+
+---
+
+### 📈 Airbnb Price Prediction
+Projeto de Machine Learning para previsão de preços de imóveis utilizando modelos de regressão.
+
+👉 https://github.com/MarcioLuizBR/Ciencia_dados_Airbnb
+
+---
+
+### ⚙️ Automação de Processos
+Scripts Python focados em eficiência operacional e automação de tarefas repetitivas.
+
+👉 https://github.com/MarcioLuizBR/Automacao_Processos
+
+---
+
+## 📚 Em constante evolução
+
+- Engenharia de Dados (DNC)
+- Inteligência Artificial aplicada
+- Arquitetura Cloud (Azure AZ-305 | AZ-104)
+
+---
+
+## 📬 Contato
+
+- LinkedIn: https://www.linkedin.com/in/marcioluiz-multicloud/
 - Email: marcio.asriel@gmail.com
